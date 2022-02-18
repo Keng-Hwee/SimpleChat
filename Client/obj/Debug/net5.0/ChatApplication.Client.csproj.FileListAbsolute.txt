@@ -1,0 +1,1336 @@
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\ChatApplication.Client.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\ref\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\service-worker-assets.js
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\service-worker.js
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Shared.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Shared.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.csprojAssemblyReference.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.AssemblyInfoInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.AssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.csproj.CoreCompileInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorComponent.input.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorComponent.output.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.TagHelpers.input.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.TagHelpers.output.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorCoreGenerate.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\o+T3pHhn.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\vy21qIml.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3MefgQW5.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Z2v3mRKl.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Xqgo3nDI.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\9NKZ1+W7.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\qznE0sfb.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mBKNcSos.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\grMIyVSK.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\LGxq5WuD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3ZydKGcB.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zBl+Pgv8.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\P+5R1aQ8.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Ik4MEl9b.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Ek8zGu+2.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Cf5+lnFx.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\qatQ+cJY.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Kj2YRD5o.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\2i9ZBDj2.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fN6m+dhC.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ELutqg2n.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\x4qO2DLQ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\flKCuwWI.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\OiHKwgMU.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\9b5q8phD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\O6dzxVbw.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+5+AJvwt.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\JzBonaFC.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\r9IVGRuC.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Amb7NRpd.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\MplhXqbD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\88u2mF64.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\5lBKq+bx.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CTDYNk+7.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3plThmRy.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\SFAJ0xWQ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\TKYUiDv1.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xocYNxfz.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\wT0XBJFs.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YBJSWSPB.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\k4fUwqKo.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CAvctzAs.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\928y0zqk.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\X6JCyog+.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\DGNGTDfo.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\c4oF8Sdb.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\umU5vF9w.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\kc14DDNp.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ejt3BwX+.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+8KY8Lv2.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\HBn3Gvq7.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\wWtgu3nc.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\oI41ugPT.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\EcwHHgYu.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YY5EWyrR.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+hyjkHzj.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YhOa49jz.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RSzAULbv.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Ngj9BHX9.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\UzZBlUNJ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3F9hol6B.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\jusyg8DH.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\2HZc+SwJ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\uHqA28Es.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\MjZ4mtbB.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\BIKHphDL.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ufgtDOIR.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\PZ1+0QOD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Gux8U9L+.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\4P4h8T+o.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Jwwfrrhr.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\JLNFYqwF.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Mpxeoe7F.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\OaFW+OAm.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\J2sE0erO.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xP9fKg9r.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xQ4DR0jZ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zpDd+RTg.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\NS0+c1rs.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\iGBM+ikm.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ReLp7M6h.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\SPrFjkVr.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Dkr+Geip.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\5CAEYXFY.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YvXq1RU+.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\LKgHza6A.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aOHgfPHb.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ttVDvjTF.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aMiJGO34.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\cQS4jzsN.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\AcG1XqAe.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mTo+SI4Z.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\8xPglpH3.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\coYD3ncT.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Y7KI2UMG.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\kh8S07g+.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ONDg62Cv.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rmncSTZY.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\8uwhyMDK.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7cUU6d+5.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mdmpm4YA.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\tvz9UAu0.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\FfSswzcn.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7Ua8eFpO.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\QKMgke3D.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\cPRk2Z7p.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\PvCTUIU7.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\4t1r9Qrk.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\EPKH1J4i.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\W72QHUA9.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zSqlq+S7.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\vFR18M1M.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\6FJKuKHM.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\02H5Y82b.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\kV67RJak.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\SC+S1Yiz.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ExusrtYx.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CH3oPyfQ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\R+ZHuPkM.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\L0WySlVE.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\0JG1mcCC.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\z0BNY1px.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\jaqt8Htp.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\o7takMIH.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\sbu71B+4.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\vdmy40CR.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xQTSPaKu.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\T8NRR65I.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\koHFdFYD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fd2SaW1+.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\r++8LSF6.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aSI+3pBS.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\uGPDrNog.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Pv6V7D1b.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\C6XSkNuw.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ysdFWylB.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ahr3cLk1.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\1kCXZ2N5.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\AnEvk3hd.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7A0Mi5hi.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\molDoRAK.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\8jfDjI5r.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fwJeE2eD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Kny28PVI.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\col7j51h.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\R4LqYtfL.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CuajERSv.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\PZaFQDPR.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\I+JoukmI.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\wdHdIuTD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\uh2mGQSf.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RK7NE+MR.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\M45T0lZt.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rAVcBpFy.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\T0zNd7fD.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\r0VcQ3eM.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\D+1VeU6b.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\TvPGWMT3.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\9Nhzvwso.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\X6WFbX6L.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\E4W50sep.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\66jwb8E7.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\tXL3NUGW.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\auJqvtJV.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RlwhDxIi.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\1Bw7ClZ7.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\32TX6PjQ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\2QbUurPp.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\R4KLNme1.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\DNKmfK4i.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\WutLTdbi.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RVSTHY4H.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rzIfzbGs.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\l0Vk0gUK.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\D1BVMrT0.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\pUUSFAJM.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+vzrON+B.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\y2KfDtXx.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\e8QNx2wL.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\E2eL7Yxq.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\nffluiQy.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\tLhWYn4u.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\cShSXLhK.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\WLisMu8P.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zBR7brSS.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ZBCd60UY.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\u0klILPp.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xXbwEaFb.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Vra8cL25.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\VeSDD6ZW.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aw+iTWPg.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fLCAQabJ.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\lxW1PRcv.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\QFGbUUFj.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\o1jwpBzg.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\staticwebassets\ChatApplication.Client.StaticWebAssets.Manifest.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\staticwebassets\ChatApplication.Client.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\bundle\ChatApplication.Client.styles.css
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\projectbundle\ChatApplication.Client.bundle.scp.css
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorTargetAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.csproj.CopyComplete
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ref\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\service-worker-assets.js
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\AppTheme.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\AppTheme.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ChatServer.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Pages\ChatServer.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Connections.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Client.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Common.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.Core.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Common.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\iClIGZqM.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\a1hN1Gdn.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3JaQromH.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rAembRja.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\AKBkGnDp.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\JcNGL9a5.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7S8o1f2g.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+wd+7A7h.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+5TJAlhT.gz
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mnB2yL05.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\ChatApplication.Client.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\ref\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\service-worker-assets.js
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\service-worker.js
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Connections.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Client.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Common.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.Core.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Common.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Shared.dll.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\bin\Debug\net5.0\wwwroot\_framework\ChatApplication.Shared.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.csprojAssemblyReference.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.AssemblyInfoInputs.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.AssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.csproj.CoreCompileInputs.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorComponent.input.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ChatServer.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\AppTheme.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorComponent.output.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.TagHelpers.input.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.TagHelpers.output.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorCoreGenerate.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Pages\ChatServer.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\AppTheme.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\o+T3pHhn.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\vy21qIml.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3MefgQW5.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Z2v3mRKl.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Xqgo3nDI.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\iClIGZqM.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\a1hN1Gdn.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3JaQromH.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rAembRja.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\9NKZ1+W7.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\AKBkGnDp.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\JcNGL9a5.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7S8o1f2g.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+wd+7A7h.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\qznE0sfb.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mBKNcSos.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\grMIyVSK.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\LGxq5WuD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3ZydKGcB.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+5TJAlhT.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zBl+Pgv8.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\P+5R1aQ8.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Ik4MEl9b.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Ek8zGu+2.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Cf5+lnFx.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\qatQ+cJY.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Kj2YRD5o.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mnB2yL05.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\2i9ZBDj2.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fN6m+dhC.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ELutqg2n.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\x4qO2DLQ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\flKCuwWI.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\OiHKwgMU.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\9b5q8phD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\O6dzxVbw.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+5+AJvwt.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\JzBonaFC.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\r9IVGRuC.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Amb7NRpd.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\MplhXqbD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\88u2mF64.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\5lBKq+bx.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CTDYNk+7.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3plThmRy.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\SFAJ0xWQ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\TKYUiDv1.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xocYNxfz.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\wT0XBJFs.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YBJSWSPB.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\k4fUwqKo.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CAvctzAs.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\928y0zqk.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\X6JCyog+.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\DGNGTDfo.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\c4oF8Sdb.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\umU5vF9w.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\kc14DDNp.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ejt3BwX+.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+8KY8Lv2.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\HBn3Gvq7.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\wWtgu3nc.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\oI41ugPT.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\EcwHHgYu.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YY5EWyrR.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+hyjkHzj.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YhOa49jz.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RSzAULbv.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Ngj9BHX9.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\UzZBlUNJ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\3F9hol6B.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\jusyg8DH.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\2HZc+SwJ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\uHqA28Es.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\MjZ4mtbB.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\BIKHphDL.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ufgtDOIR.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\PZ1+0QOD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Gux8U9L+.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\4P4h8T+o.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Jwwfrrhr.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\JLNFYqwF.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Mpxeoe7F.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\OaFW+OAm.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\J2sE0erO.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xP9fKg9r.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xQ4DR0jZ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zpDd+RTg.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\NS0+c1rs.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\iGBM+ikm.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ReLp7M6h.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\SPrFjkVr.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Dkr+Geip.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\5CAEYXFY.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\YvXq1RU+.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\LKgHza6A.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aOHgfPHb.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ttVDvjTF.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aMiJGO34.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\cQS4jzsN.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\AcG1XqAe.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mTo+SI4Z.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\8xPglpH3.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\coYD3ncT.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Y7KI2UMG.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\kh8S07g+.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ONDg62Cv.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rmncSTZY.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\8uwhyMDK.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7cUU6d+5.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\mdmpm4YA.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\tvz9UAu0.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\FfSswzcn.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7Ua8eFpO.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\QKMgke3D.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\cPRk2Z7p.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\PvCTUIU7.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\4t1r9Qrk.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\EPKH1J4i.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\W72QHUA9.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zSqlq+S7.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\vFR18M1M.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\6FJKuKHM.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\02H5Y82b.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\kV67RJak.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\SC+S1Yiz.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ExusrtYx.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CH3oPyfQ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\R+ZHuPkM.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\L0WySlVE.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\0JG1mcCC.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\z0BNY1px.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\jaqt8Htp.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\o7takMIH.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\sbu71B+4.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\vdmy40CR.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xQTSPaKu.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\T8NRR65I.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\koHFdFYD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fd2SaW1+.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\r++8LSF6.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aSI+3pBS.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\uGPDrNog.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Pv6V7D1b.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\C6XSkNuw.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ysdFWylB.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ahr3cLk1.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\1kCXZ2N5.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\AnEvk3hd.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\7A0Mi5hi.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\molDoRAK.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\8jfDjI5r.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fwJeE2eD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Kny28PVI.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\col7j51h.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\R4LqYtfL.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CuajERSv.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\PZaFQDPR.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\I+JoukmI.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\wdHdIuTD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\uh2mGQSf.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RK7NE+MR.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\M45T0lZt.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rAVcBpFy.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\T0zNd7fD.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\r0VcQ3eM.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\D+1VeU6b.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\TvPGWMT3.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\9Nhzvwso.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\X6WFbX6L.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\E4W50sep.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\66jwb8E7.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\tXL3NUGW.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\auJqvtJV.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RlwhDxIi.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\1Bw7ClZ7.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\32TX6PjQ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\2QbUurPp.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\R4KLNme1.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\DNKmfK4i.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\WutLTdbi.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\RVSTHY4H.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\rzIfzbGs.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\l0Vk0gUK.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\D1BVMrT0.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\pUUSFAJM.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\+vzrON+B.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\y2KfDtXx.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\e8QNx2wL.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\E2eL7Yxq.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\nffluiQy.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\tLhWYn4u.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\cShSXLhK.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\WLisMu8P.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\zBR7brSS.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\ZBCd60UY.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\u0klILPp.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\xXbwEaFb.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\Vra8cL25.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\VeSDD6ZW.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\aw+iTWPg.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\fLCAQabJ.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\lxW1PRcv.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\qcw3ol6E.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\build-gz\CVIvk4jx.gz
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\staticwebassets\ChatApplication.Client.StaticWebAssets.Manifest.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\staticwebassets\ChatApplication.Client.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\bundle\ChatApplication.Client.styles.css
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\scopedcss\projectbundle\ChatApplication.Client.bundle.scp.css
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.RazorTargetAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.csproj.CopyComplete
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ref\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\service-worker-assets.js
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\RazorDeclaration\Pages\SetUserNameDialog.razor.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Client\obj\Debug\net5.0\Razor\Pages\SetUserNameDialog.razor.g.cs

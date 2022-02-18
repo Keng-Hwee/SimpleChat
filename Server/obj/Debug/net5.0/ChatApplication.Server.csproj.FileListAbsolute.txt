@@ -1,0 +1,140 @@
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Client.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.exe
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.deps.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.runtimeconfig.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.runtimeconfig.dev.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ref\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.Views.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.Views.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\MudBlazor.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Shared.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.csprojAssemblyReference.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.AssemblyInfoInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.AssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.csproj.CoreCompileInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorAssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\staticwebassets\ChatApplication.Server.StaticWebAssets.Manifest.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\staticwebassets\ChatApplication.Server.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\scopedcss\bundle\ChatApplication.Server.styles.css
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.TagHelpers.input.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.TagHelpers.output.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorCoreGenerate.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorTargetAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorTargetAssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.Views.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.csproj.CopyComplete
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ref\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.genruntimeconfig.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Client.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.exe
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.deps.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.runtimeconfig.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.runtimeconfig.dev.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ref\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.Views.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Server.Views.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\MudBlazor.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Client.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Client.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\bin\Debug\net5.0\ChatApplication.Shared.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.csprojAssemblyReference.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.AssemblyInfoInputs.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.AssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.csproj.CoreCompileInputs.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorAssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\staticwebassets\ChatApplication.Server.StaticWebAssets.Manifest.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\staticwebassets\ChatApplication.Server.StaticWebAssets.xml
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\scopedcss\bundle\ChatApplication.Server.styles.css
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.TagHelpers.input.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.TagHelpers.output.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorCoreGenerate.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorTargetAssemblyInfo.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.RazorTargetAssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.Views.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.csproj.CopyComplete
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ref\ChatApplication.Server.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Server\obj\Debug\net5.0\ChatApplication.Server.genruntimeconfig.cache

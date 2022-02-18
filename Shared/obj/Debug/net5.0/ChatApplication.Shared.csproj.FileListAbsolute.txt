@@ -1,0 +1,24 @@
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\bin\Debug\net5.0\ChatApplication.Shared.deps.json
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\bin\Debug\net5.0\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\bin\Debug\net5.0\ref\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\bin\Debug\net5.0\ChatApplication.Shared.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.AssemblyInfoInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.AssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ref\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.pdb
+C:\Users\kengh\OneDrive\Desktop\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.csprojAssemblyReference.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\bin\Debug\net5.0\ChatApplication.Shared.deps.json
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\bin\Debug\net5.0\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\bin\Debug\net5.0\ref\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\bin\Debug\net5.0\ChatApplication.Shared.pdb
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.csprojAssemblyReference.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.AssemblyInfoInputs.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.AssemblyInfo.cs
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ref\ChatApplication.Shared.dll
+C:\Users\kengh\OneDrive\Desktop\KH Stuff\Projects\ChatApplication\Shared\obj\Debug\net5.0\ChatApplication.Shared.pdb

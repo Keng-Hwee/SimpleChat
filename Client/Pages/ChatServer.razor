@@ -1,0 +1,104 @@
+﻿@page "/chatServer/server1"
+@using Microsoft.AspNetCore.SignalR.Client
+@inject NavigationManager NavigationManager
+@inject IDialogService DialogService
+
+<MudCard>
+    <MudCardContent>
+        <h1>CHAT SERVER</h1>
+    </MudCardContent>
+</MudCard>
+<MudCard>
+    <MudCardContent>
+        @foreach (var message in messages)
+        {
+            <p>@message</p>
+        }
+
+        <EditForm Model="@MessageModel" OnValidSubmit="OnValidSubmit">
+            <DataAnnotationsValidator />
+            <MudCard>
+                <MudCardContent>
+                    <MudItem>
+                        <MudTextField T="string" Class="textInput" AutoFocus="true" Label="Message" Variant="Variant.Outlined" Lines="@Lines" @bind-Value="@MessageModel.TextMessage" OnDebounceIntervalElapsed="OnTextChange" DebounceInterval="1" />
+                    </MudItem>
+                </MudCardContent>
+                <MudCardActions>
+                    <MudButton ButtonType="ButtonType.Button" OnClick="Send" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Send</MudButton>
+                </MudCardActions>
+            </MudCard>
+        </EditForm>
+    </MudCardContent>
+</MudCard>
+
+
+
+@code {
+    [Inject] IJSRuntime JSRuntime { get; set; }
+    public string currentUser = "";
+    public int Lines = 2;
+    string sampleText = "";
+    Message MessageModel = new Message();
+
+    private HubConnection hubConnection;
+    private List<string> messages = new List<string>();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (string.IsNullOrEmpty(currentUser))
+            await SetUserName();
+
+        MessageModel.User = currentUser;
+
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(NavigationManager.ToAbsoluteUri("http://localhost:58248/chathub"))
+            .Build();
+
+        hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
+        {
+            var encodedMsg = $"{user}: {message}";
+            messages.Add(encodedMsg);
+            StateHasChanged();
+        });
+
+        await hubConnection.StartAsync();
+    }
+
+    private async Task SetUserName()
+    {
+        var dialog = DialogService.Show<SetUserNameDialog>("Set User Name");
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+            currentUser = result.Data.ToString();
+
+    }
+
+    private async Task OnValidSubmit()
+    {
+        StateHasChanged();
+    }
+
+    private async Task Send()
+    {
+        await hubConnection.SendAsync("SendMessage", MessageModel.User, MessageModel.TextMessage);
+        MessageModel.TextMessage = "";
+    }
+
+    private async void OnTextChange()
+    {
+        var result = await JSRuntime.InvokeAsync<object>("eval", @"(function() {
+var textInput = document.getElementsByTagName('textarea')[0];
+textInput.style.height='auto';
+textInput.style.height=(textInput.scrollHeight)+'px';
+return textInput.scrollHeight;
+})()");
+    }
+
+    public class Message
+    {
+        public string User { get; set; }
+        public string TextMessage { get; set; }
+    }
+}

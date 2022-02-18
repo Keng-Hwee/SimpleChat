@@ -1,0 +1,16 @@
+﻿<MudDialog>
+    <DialogContent>
+        <div class="d-flex flex-column py-1">
+            <MudTextField @bind-Value="UserName" Label="Set Name" Variant="Variant.Outlined"></MudTextField>
+        </div>
+    </DialogContent>
+    <DialogActions>
+        <MudButton Color="Color.Primary" OnClick="Save">Set</MudButton>
+    </DialogActions>
+</MudDialog>
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+    public string UserName { get; set; }
+
+    void Save() => MudDialog.Close(DialogResult.Ok(UserName));
+}
